@@ -1,0 +1,6 @@
+framework module SCBleSDK {
+  umbrella header "SCBleSDK.h"
+
+  export *
+  module * { export * }
+}
